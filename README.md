@@ -26,3 +26,5 @@ Features Overview;
 - MonthlyCharges: Indicates the customer’s current total monthly charge for all their services from the company.
 - TotalCharges: Indicates the customer’s total charges, calculated to the end of the quarter specified above.
 - Churn: Yes = the customer left the company this quarter. No = the customer remained with the company. Directly related to Churn Value.
+
+## Tools used
